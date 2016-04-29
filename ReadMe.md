@@ -1,6 +1,8 @@
 dynamic-keystore for jenkins auto-build
 ====================
 
+We are going to use this project to test our jenkins cluster
+
 A service module that you can include in your services. It provides you with ways to dynamically pull your application/service configs from DynamoDB. Advantage over other similar services is that you manage your own configurations. Other advantage being, you can pretty much store your entire config in DynamoDB using this module. So your applications/services can be configuration free.
 
 To get started
